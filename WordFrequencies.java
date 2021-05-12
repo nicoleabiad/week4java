@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class WordFrequencies {
    public static void main(String[] args) {
+      // This is a comment to commit something new :)
       Scanner scnr = new Scanner(System.in);
       int x = scnr.nextInt();
       String [] words = new String[x];
